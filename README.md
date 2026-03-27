@@ -11,6 +11,7 @@ A custom flight‑controller board built around the ESP32‑S3, designed for lig
 - Reset and mode switches for firmware flashing  
 - Expansion headers for UART, I²C, and GPIO  
 - Clean power distribution with decoupling and filtering
+<img width="3507" height="2480" alt="image" src="https://github.com/user-attachments/assets/64631544-7919-446f-a25c-b6464095a6e4" />
 
 ## Power System Upgrade
 The original TP4056 charger was replaced with the BQ24075 power‑path IC.  
